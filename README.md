@@ -42,8 +42,6 @@
 
    <img width="127" alt="Screenshot 2025-01-06 105743" src="https://github.com/user-attachments/assets/13479933-f773-4121-8fca-528f5952e686" />
 
-   Smaller states like Meghalaya and Tripura experienced explosive growth, reflecting emerging markets with high potential for future EV sales expansion.
-
 8. What are the peak and low season months for EV sales based on the data from 2022 to 2024?
 
    <img width="153" alt="Screenshot 2025-01-06 105850" src="https://github.com/user-attachments/assets/bbdc014c-3296-46cb-b409-3472df604447" />
@@ -53,8 +51,6 @@
 9. What is the projected number of EV sales (including 2-wheelers and 4-wheelers) for the top 10 states by penetration rate in 2030, based on the compounded annual growth rate (CAGR) from previous years?
 
    <img width="272" alt="Screenshot 2025-01-06 110256" src="https://github.com/user-attachments/assets/66f4d125-ab51-4660-9e59-a79cda25397c" />
-
-   Maharashtra and Kerala are projected to lead in EV sales, with over 10 million units each by 2030, underscoring their significant market potential and expected growth trajectory.
 
 10. Estimate the revenue growth rate of 4-wheeler and 2-wheelers EVs in India for 2022 vs 2024 and 2023 vs 2024, assuming an average unit price
 
